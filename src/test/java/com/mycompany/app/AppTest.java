@@ -17,4 +17,24 @@ public class AppTest
     {
         assertTrue( true );
     }
+    public void shouldAnswerWithTrue1()
+    {
+        assertTrue( true );
+    }
+    public void shouldAnswerWithTrue2()
+    {
+        assertTrue( false );
+    }
+    public void shouldAnswerWithTrue3()
+    {
+        assertTrue( true );
+    }
+    public void shouldAnswerWithTrue4()
+    {
+        assertTrue( true );
+    }
+    public void shouldAnswerWithTrue5()
+    {
+        assertTrue( true );
+    }
 }
