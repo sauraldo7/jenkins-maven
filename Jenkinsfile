@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('compile and clean') { 
             steps {
-               
+		sh "echo hi this multibranch jenkins"               
                 sh "mvn clean compile"
             }
         }
